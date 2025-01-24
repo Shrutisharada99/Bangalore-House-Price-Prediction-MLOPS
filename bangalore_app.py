@@ -47,7 +47,7 @@ def convert_sqft_to_num(sqft):
 
 # Main function for the Streamlit app
 def main():
-    st.title('Bengaluru House Price Prediction')
+    st.title('Bangalore House Price Prediction')
 
     # Load the model, scaler, and feature names
     model, scaler, feature_names = load_artifacts()
