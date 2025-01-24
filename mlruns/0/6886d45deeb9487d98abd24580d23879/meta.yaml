@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vani/OneDrive/Documents/Praxis_Tech_School/Final%20MLOps%20project/Bangalore-House-Price-Prediction-MLOPS/mlruns/0/6886d45deeb9487d98abd24580d23879/artifacts
+end_time: 1737691814403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6886d45deeb9487d98abd24580d23879
+run_name: RandomForest
+run_uuid: 6886d45deeb9487d98abd24580d23879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737691597234
+status: 3
+tags: []
+user_id: Vani

@@ -11,7 +11,7 @@ RUN pip install --no-cache-dir pandas numpy scikit-learn streamlit jsonpickle xg
 COPY bangalore_app.py /app/
 COPY best_model.pkl /app/
 COPY scaler.pkl /app/
-COPY feature_names.pkl /app/
+COPY features.pkl /app/
 COPY requirements.txt /app/
 
 # Expose port 8000

@@ -1,7 +1,6 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import os
-import joblib
 
 def data_scaler(X_train, X_test):
 

@@ -3,7 +3,6 @@ import numpy as np
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import os
-import joblib
 
 def data_preprocessor(data):
     """

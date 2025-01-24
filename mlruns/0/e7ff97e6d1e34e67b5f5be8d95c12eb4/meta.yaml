@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vani/OneDrive/Documents/Praxis_Tech_School/Final%20MLOps%20project/Bangalore-House-Price-Prediction-MLOPS/mlruns/0/e7ff97e6d1e34e67b5f5be8d95c12eb4/artifacts
+end_time: 1737691960681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ff97e6d1e34e67b5f5be8d95c12eb4
+run_name: XGBoost
+run_uuid: e7ff97e6d1e34e67b5f5be8d95c12eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737691814442
+status: 3
+tags: []
+user_id: Vani
