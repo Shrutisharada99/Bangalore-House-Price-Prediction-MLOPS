@@ -14,8 +14,8 @@ COPY scaler.pkl /app/
 COPY features.pkl /app/
 COPY requirements.txt /app/
 
-# Expose port 8000
-EXPOSE 8000
+# Expose port 8501
+EXPOSE 8501
 
-# Run the Streamlit app on port 8000
+# Run the Streamlit app on port 8501
 CMD ["streamlit", "run", "bangalore_app.py"]
